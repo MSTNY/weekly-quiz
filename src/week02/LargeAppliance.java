@@ -1,4 +1,4 @@
-package week2;
+package week02;
 
 public class LargeAppliance extends Product implements DeliveryChargeCalculator{
     String size = "large";

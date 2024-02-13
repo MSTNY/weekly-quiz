@@ -1,4 +1,4 @@
-package week2;
+package week02;
 
 public class Grocery extends Product implements DeliveryChargeCalculator {
     String size = "various";
